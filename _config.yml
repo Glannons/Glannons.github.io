@@ -104,5 +104,5 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: 'https://47390c04699c5379357374fca8a918dd59331727@github.com/Glannons/Hlog.github.io.git'
-  branch: master
+  repository: 'https://47390c04699c5379357374fca8a918dd59331727@github.com/Glannons/Glannons.github.io.git'
+  branch: main
