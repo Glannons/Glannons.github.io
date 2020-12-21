@@ -46,6 +46,7 @@ jobs:
         hexo generate
     - name: Deploy # 部署
       run: |
+        npm install hexo-deployer-git --save
         git config --global user.name "Glannons"
         git config --global user.email "duruiqng@yeah.net"
         git clone https://github.com/Glannons/Glannons.github.io.git .deploy_git
