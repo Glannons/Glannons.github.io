@@ -1,2 +1,0 @@
-# Glannons.github.io
-hexo
